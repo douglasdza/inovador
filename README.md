@@ -1,1 +1,7 @@
-# Projeto utilizado na aula de Desenvolvimento para Dispositivos Móveis da turma TADS 2018 do Instituto Federal do Paraná - Campus Paranavaí
+# Projeto utilizado na aula de Desenvolvimento para Dispositivos Móveis
+
+# 3º TADS do Instituto Federal do Paraná - Campus Paranavaí, ministrado pelo professor Frank W. Cardoso.
+
+# 06 de outubro de 2018
+
+# Acadêmico: Douglas D. Souza
