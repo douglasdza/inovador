@@ -1,0 +1,3 @@
+Para executar, basta digitar no terminal: python3 git.py
+
+E siga os passos na tela.

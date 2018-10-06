@@ -1,0 +1,7 @@
+git config user.email "dubghlas@outlook.com"
+
+git add *
+
+git commit -m "
+
+git push origin master
